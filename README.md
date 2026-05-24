@@ -14,7 +14,19 @@ MySQL / Excel / 数据清洗 / 可视化 / RFM模型
 - README.md: 项目说明
 
 ## 项目成果
-- 日销售趋势分析
+- 日销售、月销售趋势分析
 - TOP10商品销售分析
 - 用户复购率与客单价分析
 - RFM用户价值分层分析
+
+# Daily Sales Trend
+![Daily Sales Trend](images/daily_sales_trend.png)
+
+# Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+# TOP10 Products
+![TOP10 Products](images/top10_products.png)
+
+# RFM Analysis
+![RFM Analysis](images/rfm_analysis.png)
